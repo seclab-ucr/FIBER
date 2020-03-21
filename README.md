@@ -1,5 +1,7 @@
 # Fiber
 
+This repo is a fork of https://github.com/fiberx/fiber. Latest update can be found there.
+
 Source-binary patch presence test system. Given a target software binary (Android kernel image) and a security patch (in source), Fiber can check if the patch has been applied in the target binary. 
 
 The design, implementation, and more details of fiber can be found in our research paper:
